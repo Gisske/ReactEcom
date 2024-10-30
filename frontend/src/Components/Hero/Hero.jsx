@@ -1,6 +1,5 @@
 import React from 'react'
 import './Hero.css'
-import hand_icon from '../Assets/hand_icon.png'
 import arrow_icon from '../Assets/arrow.png'
 import hero_image from '../Assets/product_40.png'
 
@@ -11,7 +10,6 @@ export const Hero = () => {
             <h2>สินค้าที่ดีมีแค่ที่นี้เท่านั้น</h2>
             <div className="hero-hand-icon">
                 <p>สินค้ามากมาย</p>
-                <img src={hand_icon} alt="" />
             </div>
             <p>สำหรับนักศึกษา</p>
             <p>ที่ดีทุกคน</p>

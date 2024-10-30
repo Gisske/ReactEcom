@@ -18,6 +18,10 @@
     font-weight: 600;
 }
 
+.navbar-logo img {
+    width: 70px;
+}
+
 .nav-menu {
     display: flex;
     align-items: center;
@@ -44,7 +48,7 @@
     width: 80%;
     height: 3px;
     border-radius: 10px;
-    background-color: #ff4141;
+    background-color: #61a6ff;
 }
 
 .nav-login-cart {
@@ -80,7 +84,7 @@
     margin-left: -55px;
     border-radius: 11px;
     font-size: 14px;
-    background-color: red;
+    background-color: #61a6ff;
     color: white;
 }
 
